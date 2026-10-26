@@ -1,6 +1,6 @@
-# How to send data to Levitate
+# How to send data to Last9
 
-- Obtain OTLP Authroization header from Levitate dashboard.
+- Obtain OTLP Authroization header from Last9 dashboard.
 - Run following command:
 
 ```sh
